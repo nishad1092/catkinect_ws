@@ -1,0 +1,15 @@
+[submodule "src/catvehicle"]
+	path = src/catvehicle
+	url = https://github.com/sprinkjm/catvehicle.git
+[submodule "src/obstaclestopper"]
+	path = src/obstaclestopper
+	url = https://github.com/sprinkjm/obstaclestopper.git
+[submodule "src/sicktoolbox"]
+	path = src/sicktoolbox
+	url = https://github.com/ros-drivers/sicktoolbox
+[submodule "src/sicktoolbox_wrapper"]
+	path = src/sicktoolbox_wrapper
+	url = https://github.com/ros-drivers/sicktoolbox_wrapper
+[submodule "src/velodyne"]
+	path = src/velodyne
+	url = https://github.com/ros-drivers/velodyne
